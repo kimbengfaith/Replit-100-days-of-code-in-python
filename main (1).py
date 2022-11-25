@@ -1,3 +1,6 @@
+# Day1: we were asked to write the print statements of our name, day we started and a very long message including my replit user name.
+# it was an amazing first day experience
+
 print('Kimbeng Faith Antia Va Ndze')
 print('Friday 25th of November')
 print(''' I am signing up for Replit's 100 days of Python challenge!
