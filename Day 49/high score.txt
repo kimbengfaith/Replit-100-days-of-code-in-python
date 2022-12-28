@@ -1,0 +1,5 @@
+kim 200
+dar 3
+mer 1
+ivo 40
+valen 1888
