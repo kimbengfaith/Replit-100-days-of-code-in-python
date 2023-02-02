@@ -1,0 +1,44 @@
+html,body{
+  font-family:sans-serif;
+  background-color: #d1d1d1;
+  border-style: solid;
+}
+h1{
+  text-align: center;
+  font-family: serif;
+  font-size: 40px;
+  color:lightgray;
+  background-color: black;
+  
+}
+p{
+  text-align:left;
+  font-style: normal;
+  
+}
+ul,p{
+  
+  font-style: normal;
+  border-style: italic;
+}
+ol{
+  font-style: normal;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  margin-top: 50px;
+  text-align: center;
+  font-style:oblique
+}
+.faith1{
+  font-style: normal;
+  font-weight: bold;
+}
+.f{
+  color:black;
+  font-weight:bold;
+}
