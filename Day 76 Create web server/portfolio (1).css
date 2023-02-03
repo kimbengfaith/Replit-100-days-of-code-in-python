@@ -1,0 +1,53 @@
+html,body{
+  font-family:sans-serif;
+  background-color: #0e1525;
+  border-style: solid;
+  border-color: #ebe6e6;
+}
+h1{
+  text-align: center;
+  font-family: serif;
+  font-size: 40px;
+  color: #0e1525;
+  background-color:#ebe6e6; ;
+  
+}
+p{
+  color:#ebe6e6;
+  text-align:left;
+  font-style: normal;
+  
+}
+ul,p{
+  color:#ebe6e6;
+  font-style: normal;
+  border-style: italic;
+}
+ol{
+  color:#ebe6e6;
+  font-style: normal;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  color:#ebe6e6;
+  margin-top: 50px;
+  text-align: center;
+  font-style:oblique
+}
+.faith1{
+  color:#ebe6e6;
+  font-style: normal;
+  font-weight: bold;
+}
+.f{
+  color:#0e1525;;
+  font-weight:bold;
+}
+a{
+  color:#ebe6e6;
+  margin-left: 0px;
+}
