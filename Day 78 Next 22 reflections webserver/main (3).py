@@ -3,7 +3,7 @@ import datetime
 
 url = {"78":{"link":"https://replit.com/@ValenciaFaith/Day78100Days#main.py",'reflection':"today was was not quite trilling but i had to push my self to code. Css is no fun",'prev':'/',"next":"/79"},
        
-       "79":{"link":'/79',"reflection":'Learned how to create templates in html which to be honest i dont know how i felt doing that.',"prev":'/78',"next":"/"}
+       "79":{"link":'https://replit.com/@ValenciaFaith/Day79100Days#index.html',"reflection":"learned how to create forms in html which is the only real way to communicate with the webserver","prev":'/78',"next":"/"}
       
       }
 
